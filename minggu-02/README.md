@@ -46,7 +46,7 @@
 ![](step7.png)
 
 
-- Selanjutnya di pilih pull merge request
+- Selanjutnya di pilih merge pull request
 
 
 ![](step8.png)
@@ -58,6 +58,13 @@
 ![](step9.png)
 
 
-- 
+- Pemberitahuan bahwa pull request telah sukses di merge
+
+
 ![](step10.png)
+
+
+- Tampilan branch master setelah di pull request (terdapat tambahan file minggu-02)
+
+
 ![](step11.png)
