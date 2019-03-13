@@ -25,11 +25,22 @@
 
 ![](step5.png)
 
-- Pada GUI muncul hasil dari pembuatan pull request
+- Pada GUI muncul hasil dari pembuatan pull request pada branch okey
 
 ![](step6.png)
 
-- 
+- Tampilan dari pull request di GIT
+
 ![](step7.png)
+
+- Selanjutnya di pilih pull merge request
+
 ![](step8.png)
+
+- Pilih merge confirm untuk menggabungkan apa yang ditambahkan pada branch okey ke branch master
+
 ![](step9.png)
+
+- 
+![](step10.png)
+![](step11.png)
