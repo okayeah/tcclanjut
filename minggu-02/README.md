@@ -2,10 +2,11 @@
 
 ![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
-- Download GIT
-- Ikuti langkah langkahnya
 
+- Buat Folder Baru minggu-02
 ![](step1.png)
+
+
 ![](step2.png)
 ![](step3.png)
 ![](step4.png)
