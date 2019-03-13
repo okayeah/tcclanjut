@@ -5,12 +5,12 @@
 - Download GIT
 - Ikuti langkah langkahnya
 
-![](Step1.png)
-![](Step2.png)
-![](Step3.png)
-![](Step4.png)
-![](Step5.png)
-![](Step6.png)
-![](Step7.png)
-![](Step8.png)
-![](Step9.png)
+![](step1.png)
+![](step2.png)
+![](step3.png)
+![](step4.png)
+![](step5.png)
+![](step6.png)
+![](step7.png)
+![](step8.png)
+![](step9.png)
