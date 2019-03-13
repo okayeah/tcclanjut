@@ -17,10 +17,19 @@
 
 ![](step3.png)
 
+- Setelah itu di commit dengan memberikan keterangan 'tambah file' dengan git commit -m "tambah file"
 
 ![](step4.png)
+
+- Setelah di commit lalu di push ke branch okey dengan 'git push origin okey'
+
 ![](step5.png)
+
+- Pada GUI muncul hasil dari pembuatan pull request
+
 ![](step6.png)
+
+- 
 ![](step7.png)
 ![](step8.png)
 ![](step9.png)
