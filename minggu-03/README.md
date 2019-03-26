@@ -4,7 +4,7 @@
 
 
 - Buat Folder Baru minggu-03
-- Buka katacoda.com kemudian login
+- Buka katacoda.com kemudian login menggunakan akun masing masing
 - Kerjakan Course Docker & Container Skenario 1 - 3
 
 - Skenario 1
