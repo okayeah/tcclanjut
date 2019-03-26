@@ -1,4 +1,4 @@
-# Katacoda
+# Belajar Katacoda
 
 ![](https://www.katacoda.com/images/logos/katacoda/logo-1.png)
 
@@ -43,3 +43,22 @@
 ![](skenario2-5.png)
 
 ![](skenario2-6.png)
+
+
+- Skenario 3
+
+![](skenario3-1.png)
+
+![](skenario3-2.png)
+
+![](skenario3-3.png)
+
+![](skenario3-4.png)
+
+![](skenario3-5.png)
+
+![](skenario3-6.png)
+
+![](skenario3-7.png)
+
+![](skenario3-8.png)
